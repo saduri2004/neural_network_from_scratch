@@ -2,16 +2,6 @@
 
 This repository contains a project aimed at building a Convolutional Neural Network (CNN) from scratch using NumPy. The project focuses on implementing key components of a neural network, such as the ReLU activation function, fully connected layers, and the convolutional and pooling layers. The goal is to develop an end-to-end pipeline for image classification tasks, demonstrating a deep understanding of CNNs by implementing the architecture from first principles.
 
-Table of Contents
-
-- Project Overview
-- Installation
-- Usage
-- Model Architecture
-- Results
-- References
-
-Project Overview
 
 This project involves building the following components:
 
